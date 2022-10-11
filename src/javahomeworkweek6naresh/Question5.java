@@ -44,6 +44,7 @@ public class Question5 {
                 break;
             default:
                 System.out.println("You have enter wrong Option");
+                adj.close();
         }
 
 

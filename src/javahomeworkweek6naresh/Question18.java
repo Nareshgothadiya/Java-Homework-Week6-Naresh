@@ -17,5 +17,6 @@ public class Question18 {
         System.out.println(n1 + " * " + n2 + " = " + (n1 * n2)); //multiply
         System.out.println(n1 + " / " + n2 + " = " + (n1 / n2)); //divide
         System.out.println(n1 + " % " + n2 + " = " + (n1 % n2)); //mod
+        sum.close();
     }
 }

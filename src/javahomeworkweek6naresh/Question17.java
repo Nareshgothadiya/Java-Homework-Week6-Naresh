@@ -13,6 +13,7 @@ public class Question17 {
         number = convert.nextInt();
         String binarystr = Integer.toBinaryString(number);
         System.out.println("Binary value is : " + binarystr);
+        convert.close();
 
     }
 

@@ -20,6 +20,7 @@ public class Question13 {
         sum = first1 + second1 + third1;
         double avg = sum / 3;
         System.out.println("Average of the numbers is " + avg);
+        average.close();
     }
 }
 // Scanner average = new Scanner(System.in);

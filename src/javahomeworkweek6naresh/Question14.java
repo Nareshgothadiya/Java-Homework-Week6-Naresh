@@ -22,6 +22,7 @@ public class Question14 {
 
         System.out.println("The Area of Rectangle is:" + area);
         System.out.println("The Perimeter of Rectangle is:" + perimeter);
+        rectangle.close();
 
         //System.out.println("Area is %.if * %.if = %.2f \n", width, height, area);
        // System.out.println("Area is %.if * %.if = %.2f \n", width, height, perimeter);

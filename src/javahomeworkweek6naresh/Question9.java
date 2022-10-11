@@ -21,6 +21,7 @@ public class Question9 {
         if (ch >= 'A' && ch <= 'Z') ;
         ch2 = (Character.toUpperCase(ch));
         System.out.println("Uppercase " + ch2);
+        convert.close();
 
         /* ch2 = Character.toLowerCase(ch);
         System.out.println("Lowercase " + ch2);*/

@@ -20,6 +20,7 @@ public class Question16 {
 
         System.out.println("Addition of Binary is :" + Integer.toBinaryString(b3));
         System.out.println("Subtraction of binary is :" + Integer.toBinaryString(b4));
+        add.close();
     }
 }
 /* //int b4 = b1-b2

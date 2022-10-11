@@ -13,7 +13,7 @@ public class Question8 {
         radius = triangle.nextDouble();
         area = Math.PI * radius * radius;
         System.out.println("area of the triangle is " + area);
-
+        triangle.close();
     }
 
 }

@@ -12,6 +12,6 @@ public class Question7 {
         F = tempurature.nextFloat();
         cel = (F - 32) / 1.8;
         System.out.println("degree celcius is : " + cel);
-
+        tempurature.close();
     }
 }

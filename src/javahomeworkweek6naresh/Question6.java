@@ -14,6 +14,7 @@ public class Question6 {
         area = Math.PI * radius * radius;
         System.out.println("Area of the Circle is " + area);
         circlearea.close();
+
     }
 
 }
