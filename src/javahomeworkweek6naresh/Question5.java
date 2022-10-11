@@ -31,15 +31,15 @@ public class Question5 {
                 System.out.println("Addition =" + p3);
                 break;
             case 2:
-                p3 = p1 + p2;
+                p3 = p1 - p2;
                 System.out.println("Subtraction =" + p3);
                 break;
             case 3:
-                p3 = p1 + p2;
+                p3 = p1 * p2;
                 System.out.println("Multiplication =" + p3);
                 break;
             case 4:
-                p3 = p1 + p2;
+                p3 = p1 / p2;
                 System.out.println("Division =" + p3);
                 break;
             default:

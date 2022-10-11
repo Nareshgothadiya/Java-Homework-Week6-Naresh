@@ -24,13 +24,10 @@ public class Question4 {
     public void myMethod1() {
         System.out.println(a);
         System.out.println(b);
-
     }
 
     public static void myMethod2() {
         System.out.println(c);
         System.out.println(d);
-
-
     }
 }

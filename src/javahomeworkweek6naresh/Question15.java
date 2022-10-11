@@ -14,8 +14,9 @@ public class Question15 {
         System.out.println(a);
         System.out.println(b);
     }
+
+    public static class Question15a {
+    }
 }
 
-// c = a;
-// a = b;
-// b = c;
+//

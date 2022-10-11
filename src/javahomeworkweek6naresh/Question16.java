@@ -15,11 +15,12 @@ public class Question16 {
         int b1 = Integer.parseInt(a, 2);
         int b2 = Integer.parseInt(b, 2);
         int b3 = b1 + b2;
+        int b4 = b1 - b2;
 
-        System.out.println("Addition of Binary is" + Integer.toBinaryString(b3));
 
-          /*int b4 = b1-b2
-          System.out.println("Substraction of binary is" + Integer.toBinaryString(b4));*/
+        System.out.println("Addition of Binary is :" + Integer.toBinaryString(b3));
+        System.out.println("Subtraction of binary is :" + Integer.toBinaryString(b4));
     }
 }
-
+/* //int b4 = b1-b2
+//System.out.println("Subtraction of binary is" + Integer.toBinaryString(b4));*/
